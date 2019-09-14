@@ -2,7 +2,6 @@ import React from "react";
 import Card from "react-bootstrap/Card";
 
 const PlayerCard = props => {
-  console.log(props);
   return (
     <div className="cardContainer">
       <Card style={{ width: "18rem" }}>
